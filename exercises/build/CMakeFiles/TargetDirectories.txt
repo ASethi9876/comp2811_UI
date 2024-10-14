@@ -1,0 +1,3 @@
+/workspaces/comp2811_UI/exercises/build/CMakeFiles/rebuild_cache.dir
+/workspaces/comp2811_UI/exercises/build/CMakeFiles/edit_cache.dir
+/workspaces/comp2811_UI/exercises/build/CMakeFiles/testrect.dir
